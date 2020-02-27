@@ -1,0 +1,18 @@
+project:
+    name: Load Shedding
+    
+content:
+    - source: Research.md
+    
+
+theme:
+    headings:
+        font-family: Calibri Light 
+        color: "#000000"
+        Style: Heading 2
+
+    text:
+        font-family: Arial
+        size : 10,5
+        color: "#000000"
+        Paragraph: Bullets, Dots
